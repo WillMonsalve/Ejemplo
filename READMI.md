@@ -1,5 +1,7 @@
 #Comandos escenciales para Git y GitHub
 
+0. Git status para verificar el estado del repositorio
+
 #Iniciar el proyecto en Git
 1. Git init
 2. git Add ((.); --all; especifico)
@@ -10,3 +12,7 @@
 6. $ git config --global user.email Wmonsalve85gmail.com
 
 #Los comando escenciales en git son (2, 4)
+
+
+#Comandos para GitHub
+#Ramas
